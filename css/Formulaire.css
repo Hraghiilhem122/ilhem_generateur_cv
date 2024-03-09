@@ -1,0 +1,49 @@
+body{
+  background-image: url("image/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+#cardformulaire{
+  margin-left: 150px;
+  margin-top: 0;
+  max-width: 80%;
+  opacity: 0.80;
+}
+
+h3{
+  font-family: 'monospace';
+  text-align: center;
+}
+
+h5{
+font-family: 'Lucida Sans';
+  color: rgb(24, 8, 130);
+}
+input {
+  width:350px;
+  height: 45px;
+  padding: 12px;
+  border: 1px solid #d2e9ee;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+
+button[type=submit] {
+  background-color: rgba(5, 32, 60, 0.977);
+  color: rgb(105, 138, 184);
+  width: 500px;
+  margin-left: 300px; 
+}
+
+button[type=button] {
+  background-color: rgba(5, 32, 60, 0.977);
+  color: rgb(105, 138, 184);
+  width: 200;
+  margin-left: 90px; 
+}
+

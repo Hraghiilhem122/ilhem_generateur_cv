@@ -1,0 +1,43 @@
+body{
+    background-image: url("image/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#card{
+    margin-left: 350px;
+    margin-top: 80px;
+    max-width: 740px;
+    opacity: 0.80;
+}
+#cardindex{
+    margin-left: 350px;
+    margin-top: 80px;
+    max-width: 740px;
+    opacity: 0.80;
+}
+
+
+h1{
+    font-family: 'monospace';
+    text-align: center;
+}
+
+input {
+    width:350px;
+    height: 45px;
+    padding: 12px;
+    border: 1px solid #d2e9ee;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+
+button[type=submit] {
+    background-color: rgba(5, 32, 60, 0.977);
+    color: rgb(105, 138, 184);
+    width: 300px;
+}
